@@ -2,6 +2,12 @@ package se.jensen.caws21.adventuredice;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+/*
+Denna kod lärde jag mig genom att tita på Björns video
+från datumet 2021-10-15 1.Git, GitHub, Method override.
+Se 17 minuter in i videon.
+ */
+
 public class Main {
 
     public static void main(String[] args) {
